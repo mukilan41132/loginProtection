@@ -1,0 +1,33 @@
+.movie-slider {
+    margin: 20px auto;
+    width: 80%;
+  }
+  
+  .movie-card {
+    text-align: center;
+    padding: 10px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .movie-image {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .movie-card h3 {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .movie-card p {
+    font-size: 14px;
+    color: #555;
+  }
+  
